@@ -1,9 +1,10 @@
 ### Hi there 👋
-
-
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include C#,ReactJS, PHP{Codeigniter}, ASP.NET Core/MVC, JavaScript. 
 
 :octocat:
+<img src="https://user-images.githubusercontent.com/18127288/87233586-7c58d880-c3d1-11ea-90ae-29b8f3be3e8f.png" alt="Nehemiah Cheburet, Software Developer">
+
+
 
 <!--
 **NehemiahLimo/NehemiahLimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
