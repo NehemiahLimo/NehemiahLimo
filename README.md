@@ -3,7 +3,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 :octocat:
 
-<img src="https://user-images.githubusercontent.com/18127288/87233586-7c58d880-c3d1-11ea-90ae-29b8f3be3e8f.png" alt="Nehemiah Cheburet, Software Developer">
+<img src="https://user-images.githubusercontent.com/18127288/93241191-af329a80-f78d-11ea-86e1-8e71b01b5c83.png" alt="Nehemiah Cheburet, Software Developer">
 
 
 
