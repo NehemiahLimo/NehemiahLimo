@@ -123,12 +123,12 @@ community:   Technical writing & shared learning
 ## 📡 The GitHub pulse
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NehemiahLimo&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=CBD5E1&amp;border_radius=16" alt="Nehemiah Limo's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehemiahLimo&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;border_radius=16" alt="Languages used in Nehemiah Limo's public repositories" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=NehemiahLimo&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=CBD5E1&amp;border_radius=16" alt="Nehemiah Limo's GitHub statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NehemiahLimo&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;border_radius=16" alt="Languages used in Nehemiah Limo's public repositories" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NehemiahLimo&amp;bg_color=0F172A&amp;color=94A3B8&amp;title_color=22D3EE&amp;line=22D3EE&amp;point=A78BFA&amp;area=true&amp;area_color=164E63&amp;hide_border=true&amp;radius=16" alt="Nehemiah Limo's GitHub contribution activity graph" />
+  <a href="https://github.com/NehemiahLimo?tab=overview"><strong>Explore my contribution history on GitHub →</strong></a>
 </p>
 
 <!-- Dynamic statistics and visual assets depend on their third-party providers. -->
